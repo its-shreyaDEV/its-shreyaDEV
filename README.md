@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi, I'm Shreya Dash 👋  <br>a Computer Science undergrade  passionate about building efficient software and solving real-world problems.  <br>I enjoy working with Java, C++, and backend technologies while exploring AI and system design.  <br><br> <br><br>🎯Currently focused on:<br>* Data Structures & Algorithms  <br>* Backend development  <br>* Building real-world projects  <br><br>Always learning, Always building.<br><br>
+ I'm Shreya Dash  <br>a Computer Science undergrade  passionate about building efficient software and solving real-world problems.  <br>I enjoy working with Java, C++, and backend technologies while exploring AI and system design.  <br><br> <br><br>🎯Currently focused on:<br>* Data Structures & Algorithms  <br>* Backend development  <br>* Building real-world projects  <br><br>Always learning, Always building.<br><br>
 
 
 ## 🌐 Socials:
